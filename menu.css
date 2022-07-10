@@ -1,0 +1,70 @@
+body{
+    background-color: black
+}
+#t{
+    position: absolute;
+    top: 2px;
+    left: 40px;
+    background-color: white;
+    width: 1500px;
+    border-radius: 24px;
+}
+.mn{
+    float: left;
+    list-style-type: none;
+}
+a{
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+    border-right: solid white;
+    text-decoration: none;
+    padding: 10p;
+    margin: 20px;
+}
+a:hover{
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    border-radius: 24px;
+    padding: 10px;
+}
+#gh li:hover #do{
+    display: block;
+}
+#do{
+    display: none;
+}
+.lk{
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+}
+#q{
+    margin-left: 20px;
+    width: 200px;
+    border: black solid;
+    border-radius: 24px;
+    position: relative;
+    bottom: 4px;
+    background-color: black;
+}
+input{
+    margin-left: 20px;
+    border-radius: 24px;
+    margin: 4px;
+    position: relative;
+    left: 13px;
+}
+#r{
+    width: 10px;
+    height: 10px;
+    border-left: black;
+    border-bottom: black;
+    transform: rotate(45deg);
+}
+.brandhub-icon{
+    position: absolute;
+    top: 5px;
+    left: 2px;
+}
